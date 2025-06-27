@@ -1,13 +1,17 @@
 ## Hey 👋, I'm Christian Dave!  
   
 
+<div align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-dave-vilan-64579629a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/https://github.com/BossEros" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/confidentialdave/" target="_blank">
+<a href="https://www.facebook.com/https://www.facebook.com/confidentialdave" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+</div>  
 
 
 
@@ -17,7 +21,8 @@ Aspiring Full-Stack Developer | CS Junior
 Passionate third-year Computer Science student with a knack for building web applications from front to back. Enthusiastic learner, always exploring new technologies. Eager to apply classroom knowledge to real-world projects and contribute to innovative solutions.
 
 Let's create something amazing together!  
-  
+
+<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
