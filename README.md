@@ -22,8 +22,6 @@ Let's create something amazing together!
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
@@ -53,9 +51,6 @@ Let's create something amazing together!
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
 
 <br/> 
 
