@@ -1,63 +1,115 @@
-## Hey 👋, I'm Christian Dave!  
-  
+# Hey there! 👋 I'm Christian Dave
 
-<div align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-dave-vilan-64579629a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/BossEros" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/confidentialdave" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-
-### Glad to see you here!  
-Aspiring Full-Stack Developer | CS Junior
-
-Passionate fourth-year Computer Science student with a knack for building web applications from front to back. Enthusiastic learner, always exploring new technologies. Eager to apply classroom knowledge to real-world projects and contribute to innovative solutions.
-
-Let's create something amazing together!  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Always+learning+new+things!;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
 
 <br>
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-### Frontend  
-<div align="center">  
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://dart.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-dave-vilan-64579629a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BossEros" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/confidentialdave" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </div>
 
-</td><td valign="top" width="50%">
+<br>
 
+---
 
+## 🚀 About Me
 
-### Backend  
-<div align="center">  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank">     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+```typescript
+const christianDave = {
+    role: "Aspiring Full-Stack Developer",
+    education: "Computer Science Junior",
+    passion: "Building web applications from front to back",
+    mindset: "Enthusiastic learner, always exploring new technologies",
+    goal: "Apply classroom knowledge to real-world projects",
+    motto: "Let's create something amazing together!"
+};
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,figma" />
 </div>
 
+<br>
 
-<br/> 
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,c,mysql,firebase,git" />
+</div>
 
+<br>
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BossEros&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BossEros&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossEros&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🌟 What I'm Working On
+
+- 🔭 Currently building full-stack web applications
+- 🌱 Learning advanced React and Spring Boot
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about web development, mobile apps, or anything tech!
+- ⚡ Fun fact: I love turning coffee into code ☕→💻
+
+<br>
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BossEros&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+## 🎯 2024 Goals
+
+- [ ] Contribute to 5 open source projects
+- [ ] Build 3 full-stack applications
+- [ ] Learn cloud technologies (AWS/Azure)
+- [ ] Complete my Computer Science degree
+- [ ] Land my first internship/job as a developer
+
+<br>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>💡 Open to collaborations and always excited to connect with fellow developers!</p>
+  <p>📧 Feel free to reach out if you want to build something amazing together!</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BossEros&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
