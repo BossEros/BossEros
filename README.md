@@ -18,7 +18,7 @@
 ### Glad to see you here!  
 Aspiring Full-Stack Developer | CS Junior
 
-Passionate third-year Computer Science student with a knack for building web applications from front to back. Enthusiastic learner, always exploring new technologies. Eager to apply classroom knowledge to real-world projects and contribute to innovative solutions.
+Passionate fourth-year Computer Science student with a knack for building web applications from front to back. Enthusiastic learner, always exploring new technologies. Eager to apply classroom knowledge to real-world projects and contribute to innovative solutions.
 
 Let's create something amazing together!  
 
