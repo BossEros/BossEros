@@ -1,9 +1,5 @@
 # Hey there! 👋 I'm Christian Dave
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Always+learning+new+things!;Let's+build+something+amazing!" alt="Typing SVG" />
-</div>
-
 <br>
 
 <div align="center">
