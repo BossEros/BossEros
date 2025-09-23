@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<br>
 
 ## 🚀 About Me
 
@@ -48,10 +49,8 @@ const christianDave = {
 
 ## 🌟 What I'm Working On
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Learning advanced React and Spring Boot
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about web development, mobile apps, or anything tech!
+- 🔭 Currently building Acadify
+- 🌱 Learning ASP .NET Core and Identity Framework
 - ⚡ Fun fact: I love turning coffee into code ☕→💻
 
 <br>
