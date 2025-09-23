@@ -55,11 +55,6 @@ const christianDave = {
 
 <br>
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BossEros&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 
 <div align="center">
