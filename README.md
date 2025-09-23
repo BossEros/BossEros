@@ -85,30 +85,6 @@ const christianDave = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BossEros&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-<br>
-
-## 🎯 2024 Goals
-
-- [ ] Contribute to 5 open source projects
-- [ ] Build 3 full-stack applications
-- [ ] Learn cloud technologies (AWS/Azure)
-- [ ] Complete my Computer Science degree
-- [ ] Land my first internship/job as a developer
-
-<br>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <p>💡 Open to collaborations and always excited to connect with fellow developers!</p>
-  <p>📧 Feel free to reach out if you want to build something amazing together!</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BossEros&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <div align="center">
   <i>Happy Coding! 🚀</i>
