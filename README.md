@@ -49,8 +49,8 @@ const christianDave = {
 
 ## 🌟 What I'm Working On
 
-- 🔭 Currently building Acadify
-- 🌱 Learning ASP .NET Core and Identity Framework
+- 🔭 Currently building CampusCodex
+- 🌱 Learning Agentic AI 
 - ⚡ Fun fact: I love turning coffee into code ☕→💻
 
 <br>
