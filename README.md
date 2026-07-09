@@ -20,11 +20,11 @@
 
 ```typescript
 const christianDave = {
-    role: "Aspiring Full-Stack Developer",
-    education: "Computer Science Junior",
+    role: "Full-Stack Developer | AI Engineer",
+    education: "Computer Science Graduate",
     passion: "Building web applications from front to back",
     mindset: "Enthusiastic learner, always exploring new technologies",
-    goal: "Apply classroom knowledge to real-world projects",
+    goal: "Apply knowledge to real-world projects",
     motto: "Let's create something amazing together!"
 };
 ```
